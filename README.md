@@ -1,2 +1,2 @@
 # New Project
-this Project is for learning new things
+this Project is for learning new things.
